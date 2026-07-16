@@ -1,9 +1,9 @@
 class NumbersCli < Formula
   desc "OfficeCli-style command line for Apple Numbers spreadsheets"
   homepage "https://github.com/indiebrain/numbers-cli"
-  url "https://github.com/indiebrain/numbers-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "7cca70d6ba296178d49dfd3c50efa130adcbe94db3bd0715858e607cd738fa57"
-  license "Apache-2.0"
+  url "https://github.com/indiebrain/numbers-cli/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "5903c625bb53eb563338b00b6435b71ad2fcd3435eed2052889e18a8f828fed7"
+  license "LGPL-3.0-or-later"
 
   depends_on "python@3.13"
 
